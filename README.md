@@ -12,11 +12,11 @@ To run this project, you need to have the following installed on your machine:
 
 ## Installation
 
-1. Clone the repository using `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository using `git clone https://github.com/Roald2000/signin_signup_react_app_mysql.git`
 2. Install the dependencies for the server by navigating to the server directory with `cd server` and running `npm install`
 3. Install the dependencies for the client by navigating to the client directory with `cd ../client` and running `npm install`
 4. Set up your MySQL database using the `database.sql` file included in the `server` directory
-5. Update the `config.js` file in the `server` directory with your database credentials
+5. Update the `.env` file in the `server` directory with your database credentials and which port will the server will listen or run
 6. Start the server using `npm start` in the `server` directory
 7. Start the client using `npm start` in the `client` directory
 
