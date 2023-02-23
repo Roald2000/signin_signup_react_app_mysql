@@ -1,4 +1,4 @@
-# Project Name
+# Simple SignIn/SignUp
 
 This project is a web application that provides basic sign up and sign in functionality using MySQL/XAMPP for the database and React with Node.js/Express for the back end.
 
